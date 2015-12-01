@@ -1,7 +1,7 @@
 name: ThirdGlance
 favicon: null
-layout_spectrum: 0.38692025281488895
-typography_spectrum: 0.2961192156653851
+layout_spectrum: 0.2347
+typography_spectrum: 0.28263
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9635702499654144
+    - '#f2fae3'
+    - '#070604'
+    - '#d8ce9d'
+    - '#77532f'
+    - '#ae9263'
+  brandStrength: 0.75
   lightness: 0.25120379170402884
   saturation: 0.26692668651230633
   rhythmicContrast: 0.5356916026212275
