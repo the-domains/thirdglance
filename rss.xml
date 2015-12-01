@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ThirdGlance]]></title>
+        <description><![CDATA[ThirdGlance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 21:51:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello, I’m James, and this is my little photography site.  It’s been through quite a few generations since it started in 2001.  In the beginning I was only shooting and selling panoramic work with a Hasselblad XPan.  For a while there I shot quite a lot of weddings on film with my mate MG using our Leica Ms.  Then I was one of the people that started RedBubble and these days I spend most of my time running a curious consulting company called Luna Tractor.  Photographically now I dabble with lots of different cameras and formats and I really only shoot for myself – Despite many attempts to change I remain a paid up luddite film photographer mostly enjoying medium and large format cameras.  My friends at http://www.hcpro.com.au are still also passionated about silver and support me really well.  Over time I’ll rebuild the galleries with past and present projects though at the moment I’m distracted by a side project with MG called the Handcrafted Society. </p>]]></description>
+            <link>undefined409c2b63-9626-4cc6-82ac-d01cbcc0721b/index.html</link>
+            <guid isPermaLink="false">409c2b63-9626-4cc6-82ac-d01cbcc0721b</guid>
+            <pubDate>Tue, 01 Dec 2015 21:51:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
